@@ -1,6 +1,6 @@
 import sys
 
-name = "Kevin Kevinstone"
+name = "Colin Sauze"
 
 print("You said your name was  " + name)
 
