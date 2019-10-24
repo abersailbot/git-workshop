@@ -1,10 +1,8 @@
 import sys
 
+name = "Mitsuha"
 
-name = "Mariana"
-
-
-print("You said your name was  " + name)
+print("You said your name was " + name)
 
 if (sys.version_info[0] == 2):
     name_given = str(raw_input("Is that your name? Type it here for me!\n"))
